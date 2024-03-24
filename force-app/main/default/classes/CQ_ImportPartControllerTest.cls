@@ -98,8 +98,8 @@ private class CQ_ImportPartControllerTest {
      **/
     private class MockHttpResponseGenerator implements HttpCalloutMock {
         /**
-         * Author: PavanVarma Pinnamaraju
-         * Created Date: 20-03-2024
+         * Author: Anjali Bhusarapu
+         * Created Date: 21-03-2024
          * Description: Method to generate mock HTTP response.
          *              This method returns a fake HTTPResponse with predefined body and status code.
          **/
